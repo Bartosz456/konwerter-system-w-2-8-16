@@ -1,0 +1,4 @@
+﻿  konwerter_systemow.cpp
+D:\C++\konwerter_systemow\konwerter_systemow.cpp(21,23): warning C4101: "m": lokalna zmienna, do której nie istnieje odwołanie
+D:\C++\konwerter_systemow\konwerter_systemow.cpp(21,15): warning C4101: "p": lokalna zmienna, do której nie istnieje odwołanie
+  konwerter_systemow.vcxproj -> D:\C++\konwerter_systemow\x64\Debug\konwerter_systemow.exe
